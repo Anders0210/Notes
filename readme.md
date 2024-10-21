@@ -6,14 +6,13 @@ This project is a simple barebone note taking website. It is built using Vite, F
 
 ## Roadmap
 
-~~
+~~- **Phase 1: Initial Setup**~~
 
-- **Phase 1: Initial Setup**
+~~- Set up Vite project~~
 
-  - Set up Vite project
-  - Integrate Firebase
-  - Create initial React components
-    ~~
+~~- Integrate Firebase~~
+
+~~- Create initial React components~~
 
 - **Phase 2: Feature Development**
 
